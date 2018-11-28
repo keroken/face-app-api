@@ -17,5 +17,7 @@
     "knex": "^0.15.2",
     "pg": "^7.6.0"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "nodemon": "^1.18.7"
+  }
 }
